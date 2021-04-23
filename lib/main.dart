@@ -12,14 +12,8 @@ class dial_pad extends StatefulWidget {
 }
 
 class _dial_padState extends State<dial_pad> {
-  // var size, height,width;
   @override
   Widget build(BuildContext context) {
-
-    // size = MediaQuery.of(context).size;
-    // height = this.height;
-    // width = this.width;
-
     return Scaffold(
       backgroundColor: Colors.grey[800],
       appBar: AppBar(
