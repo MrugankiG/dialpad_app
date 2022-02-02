@@ -1,6 +1,12 @@
 # dialpad_app
 
-A new Flutter application.
+This app is a precursor of the mobile "phone" app.
+This is what it looks like in a Smartphone.
+![dialpad](https://user-images.githubusercontent.com/64461370/152166794-6e822f54-ff3c-45e6-95c9-5cb1316d4f16.png)
+![dialpad-2](https://user-images.githubusercontent.com/64461370/152166830-7ea7fc44-f0eb-4897-824d-66369a734e41.png)
+
+When you hit clear : 
+![dialpad_clear](https://user-images.githubusercontent.com/64461370/152166878-0e1893fa-f979-4f0d-8456-30c903e2d1d5.png)
 
 ## Getting Started
 
